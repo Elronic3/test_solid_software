@@ -59,7 +59,7 @@ class _BgChanger extends State<BgChanger> {
           color: currentColor,
 
           /// Displays text at the center of the screen.
-          child: const Center(child: Text('Hello there')), 
+          child: const Center(child: Text('Hello there')),
         ),
       ),
     );
